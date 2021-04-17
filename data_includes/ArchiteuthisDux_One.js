@@ -125,8 +125,8 @@ var items = [
 [["ATTRAGREEROMANIAN-mismatchsg",7],DS, {s:"Vânzătoarea de lângă contabila bogată mereu au mulţi bani de hârtie."},"QuestionAlt", {q: "Cine are mulţi bani de hârtie?", as: ["Vânzătoarea","Contabila","Vânzătoarele","Contabilele"]}],
 [["ATTRAGREEROMANIAN-matchsg",8],DS, {s:"Oaia de lângă ţăranca tânără adesea are lapte foarte bun."},"QuestionAlt", {q: "Cine are lapte foarte bun?", as: ["Oaia","Ţăranca","Oile","Ţărăncile"]}],
 [["ATTRAGREEROMANIAN-matchpl",8],DS, {s:"Oaia de lângă ţărăncile tinere adesea are lapte foarte bun."},"QuestionAlt", {q: "Cine are lapte foarte bun?", as: ["Oaia","Ţăranca","Oile","Ţărăncile"]}],
-[["ATTRAGREEROMANIAN-mismatchpl",8],DS, {s:"Oile de lângă ţărăncile tinere adesea au lapte foarte bun."},"QuestionAlt", {q: "Cine are lapte foarte bun?", as: ["Oaia","Ţăranca","Oile","Ţărăncile"]}],
-[["ATTRAGREEROMANIAN-mismatchsg",8],DS, {s:"Oile de lângă ţăranca tânără adesea au lapte foarte bun."},"QuestionAlt", {q: "Cine are lapte foarte bun?", as: ["Oaia","Ţăranca","Oile","Ţărăncile"]}],
+[["ATTRAGREEROMANIAN-mismatchpl",8],DS, {s:"Oaia de lângă ţărăncile tinere adesea au lapte foarte bun."},"QuestionAlt", {q: "Cine are lapte foarte bun?", as: ["Oaia","Ţăranca","Oile","Ţărăncile"]}],
+[["ATTRAGREEROMANIAN-mismatchsg",8],DS, {s:"Oaia de lângă ţăranca tânără adesea au lapte foarte bun."},"QuestionAlt", {q: "Cine are lapte foarte bun?", as: ["Oaia","Ţăranca","Oile","Ţărăncile"]}],
 
 
 [["ATTRAGREEROMANIAN-matchsg",9],DS, {s:"Cuţitul de lângă organismul viu uneori are viruşi letali numeroşi."},"QuestionAlt", {q: "Cine/ce are viruşi letali numeroşi?", as: ["Cuţitul","Organismul","Cuţitele","Organismele"]}],
